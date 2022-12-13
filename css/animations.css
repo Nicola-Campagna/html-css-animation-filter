@@ -1,0 +1,146 @@
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+/* ES N*1 */
+
+/* .well{
+    width: 70vw;
+    height: 70vh;
+    background-color:lightgrey;
+    position: relative;
+} */
+
+/* .ex-1-square{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    transition: all 4s linear;
+} */
+
+/* .well:hover .ex-1-square{
+    background-color: red;
+
+}  */
+
+/* ES N*2 */
+ /* .well:hover .ex-1-square{
+    width:200px;
+    background-color: red;
+
+ } */
+
+ /* ES N*3 */
+/* .well:hover .ex-1-square{
+    background-color: red;
+    border-radius: 50%;
+} */
+
+/* ES N*4 */
+/* INCOMPLETO */
+/* 
+.ex-1-square{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    transition: all 4s linear;
+   
+}
+
+.well:hover .ex-1-square{
+    transform: scale(0);
+} */
+
+
+/* ES N*5 */
+
+/* .ex-1-square{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% -50%);
+
+    transition: all 4s linear;
+  
+}
+
+.well:hover .ex-1-square{
+    transform: scale(1.5);
+}
+
+.well:active .ex-1-square{
+    transform: scale(-1.5);
+} */
+
+
+/* Es N*6 */
+/* .well{
+    width: 80vw;
+    height: 80vh;
+}
+
+.well:hover img{
+   filter: grayscale(100%);
+    
+} */
+
+/* ES N*7 */
+/* .well{
+    width: 80vw;
+    height: 80vh;
+}
+
+.well img{
+    transition: all 4s linear;
+}
+.well:hover img{
+   filter: grayscale(100%);
+} */
+
+/* ES N*8 */
+
+/* .well{
+    width: 80vw;
+    height: 80vh;
+}
+
+.well img{
+    transition: all 4s linear;
+}
+.well:hover img{
+   filter: grayscale(100%) saturate(0.5);
+   border-radius: 20px;
+} */
+
+/* ES N*9 */
+/* .well{
+    width: 80vw;
+    height: 80vh;
+}
+
+.well img{
+    transition: all 4s linear;
+}
+.well:hover img{
+   filter: grayscale(100%) saturate(0.5);
+   border-radius: 20px;
+   transform: scale(0.5);
+} */
+
+/* ES N*10 */
